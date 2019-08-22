@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Example welcome messages go here that may be helpful for new users.
